@@ -2,7 +2,7 @@
 <p align="justify">
 </p>
 
-전체 과정 및 소개 링크 : https://github.com/JongjunHan/drought_cp
+전체 과정 및 소개 링크 : https://github.com/JongjunHan/drought_cp </br>
 배포 주소 : https://drought-info.herokuapp.com
 
 ## 프로젝트 내용 및 목표
