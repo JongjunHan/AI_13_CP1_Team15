@@ -21,7 +21,7 @@
 
 <p align="left">
   <br>
-  <img src="./images/columns.png" width="300" height="600">
+  <img src="./images/columns.png" width="300" height="400">
   <br>
 </p>
 
