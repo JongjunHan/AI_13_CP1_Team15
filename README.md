@@ -21,8 +21,9 @@
 
 <p align="left">
   <br>
-  <img src="./imgaes/columns.png" width="300" height="600">
+  <img src="./images/columns.png" width="300" height="600">
   <br>
 </p>
 
-- 각 columns의 세부 정보는 
+- 각 columns의 세부 정보는 이러한 형태를 보임
+
